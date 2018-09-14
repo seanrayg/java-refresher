@@ -1,9 +1,9 @@
 
-public class MainApp implements Info{
-
-	@Override
-	public void someMethod() {
-		// TODO Auto-generated method stub
+public class MainApp {
+	
+	public Info someMethod() {
+		
+		return (int num) -> num % 2 != 0;
 		
 	}
 

@@ -1,4 +1,6 @@
 
 public interface Info {
-	public void someMethod();
+	
+	boolean check(int num);
+	
 }
