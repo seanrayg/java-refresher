@@ -1,3 +1,3 @@
 # java-refresher
 
-This is all exercises that I solved from Hackerrank.com
+This is all exercises that I solved from hackerrank.com amd udemy.com
